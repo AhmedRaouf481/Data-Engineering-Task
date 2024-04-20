@@ -1,0 +1,313 @@
+[{
+  "_id": {
+    "$oid": "66069ff93007b006635c0245"
+  },
+  "brandName": "Ward, Hand and Ortiz",
+  "yearFounded": 1970,
+  "headquarters": "Jastside",
+  "numberOfLocations": 2132,
+  "createdAt": {
+    "$date": "2024-04-20T17:29:38.978Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T17:29:38.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0246"
+  },
+  "brandName": "Ergonomic Frozen Bacon",
+  "yearFounded": 1600,
+  "headquarters": "Gavinstead",
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2024-04-20T17:29:38.979Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T17:29:38.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0247"
+  },
+  "brandName": "Breitenberg, Greenholt and Ledner",
+  "yearFounded": 1982,
+  "headquarters": "Fort Lenna",
+  "numberOfLocations": 1000
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0248"
+  },
+  "brandName": "Modern Granite Fish",
+  "yearFounded": 1970,
+  "headquarters": "Kundebury",
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2024-04-20T17:29:38.980Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T17:29:38.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0249"
+  },
+  "brandName": "Gorgeous Granite Pizza",
+  "yearFounded": 1980,
+  "headquarters": "Jonesborough",
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2024-04-20T17:29:38.980Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T17:29:38.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024a"
+  },
+  "brandName": "Oriental Plastic Pants",
+  "yearFounded": 1970,
+  "headquarters": "Wardfort",
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2024-04-20T17:29:38.981Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T17:29:38.981Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024b"
+  },
+  "brandName": "Refined Granite Towels",
+  "yearFounded": 1600,
+  "headquarters": "Lemkeland",
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2024-04-20T17:29:38.983Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T17:29:38.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024c"
+  },
+  "brandName": "Corkery Inc",
+  "yearFounded": 1935,
+  "headquarters": "DuBuqueburgh",
+  "numberOfLocations": 9200,
+  "createdAt": {
+    "$date": "2024-04-20T17:29:38.983Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T17:29:38.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024d"
+  },
+  "brandName": "Licensed Concrete Tuna",
+  "yearFounded": 1600,
+  "headquarters": "West Mylesboro",
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2024-04-20T17:29:38.983Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T17:29:38.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024e"
+  },
+  "brandName": "Generic Cotton Pizza",
+  "yearFounded": 1600,
+  "headquarters": "North Ralphport",
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2024-04-20T17:29:38.984Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T17:29:38.984Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623fbf6cb181da62ea95169"
+  },
+  "brandName": "Osinski - Gottlieb",
+  "yearFounded": 1775,
+  "headquarters": "Julianahaven",
+  "numberOfLocations": 15,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-20T17:31:34.683Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T17:31:34.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6623fbf6cb181da62ea9516a"
+  },
+  "brandName": "Lueilwitz - Marks",
+  "yearFounded": 2004,
+  "headquarters": "Fort Celestinetown",
+  "numberOfLocations": 69,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-20T17:31:34.685Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T17:31:34.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6623fbf6cb181da62ea9516b"
+  },
+  "brandName": "Jacobi - Padberg",
+  "yearFounded": 1796,
+  "headquarters": "West Morris",
+  "numberOfLocations": 52,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-20T17:31:34.686Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T17:31:34.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6623fbf6cb181da62ea9516c"
+  },
+  "brandName": "Gerlach - Daniel",
+  "yearFounded": 1944,
+  "headquarters": "North Rhettside",
+  "numberOfLocations": 59,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-20T17:31:34.686Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T17:31:34.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6623fbf6cb181da62ea9516d"
+  },
+  "brandName": "Casper Inc",
+  "yearFounded": 1932,
+  "headquarters": "Jersey City",
+  "numberOfLocations": 30,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-20T17:31:34.686Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T17:31:34.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6623fbf6cb181da62ea9516e"
+  },
+  "brandName": "Harber and Sons",
+  "yearFounded": 1961,
+  "headquarters": "Oshkosh",
+  "numberOfLocations": 11,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-20T17:31:34.687Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T17:31:34.687Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6623fbf6cb181da62ea9516f"
+  },
+  "brandName": "Powlowski Group",
+  "yearFounded": 1802,
+  "headquarters": "Jessycafurt",
+  "numberOfLocations": 13,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-20T17:31:34.687Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T17:31:34.687Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6623fbf6cb181da62ea95170"
+  },
+  "brandName": "Zboncak Group",
+  "yearFounded": 1827,
+  "headquarters": "Ardenburgh",
+  "numberOfLocations": 90,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-20T17:31:34.687Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T17:31:34.687Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6623fbf6cb181da62ea95171"
+  },
+  "brandName": "Upton Inc",
+  "yearFounded": 1816,
+  "headquarters": "Leopoldoland",
+  "numberOfLocations": 20,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-20T17:31:34.688Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T17:31:34.688Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6623fbf6cb181da62ea95172"
+  },
+  "brandName": "Nicolas - Kulas",
+  "yearFounded": 1811,
+  "headquarters": "Kuvalisberg",
+  "numberOfLocations": 44,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-20T17:31:34.688Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-20T17:31:34.688Z"
+  }
+}]
